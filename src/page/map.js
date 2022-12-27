@@ -252,5 +252,5 @@ const ShowMap = (props) => {
 };
 
 export default GoogleApiWrapper({
-  apiKey: "AIzaSyB1m0RcRybMQrRG1lzhrlVzvN4mYOykV1M",
+  apiKey: "evn.KEY",
 })(ShowMap);
